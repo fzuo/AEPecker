@@ -10,3 +10,6 @@ The pertinent paper is published by the 22nd International Symposium on Research
   pages={293--307}, <br>
   year={2019}}
 
+# Toy data (CIFAR10) and an available ResNet32 model can be downloaded from:
+
+Dropbox [link](https://www.dropbox.com/sh/w6r2cetl4pxreoz/AADXG8NZ492raZFb5Kx_QOIqa?dl=0)
