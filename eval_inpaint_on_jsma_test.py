@@ -11,7 +11,7 @@ import pickle
 
 
 from keras.models import load_model
-my_model = load_model('/home/fzuo/Desktop/cifar10_ResNet32v1_model.189.h5')
+my_model = load_model('cifar10_ResNet32v1.h5')
 
 with open('test_labels_cifar10_1k.pkl', 'rb') as f3:
     test_labels = pickle.load(f3)
